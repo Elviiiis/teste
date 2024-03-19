@@ -1,0 +1,52 @@
+ body {
+     background-color: rgb(255, 255, 255);
+     color: rgb(252, 252, 248);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin: 0px;
+     text-align: center;
+ }
+
+ header {
+    background-image: url(Veigar_Render.webp);
+     color: rgb(255, 255, 255);
+     text-align: unset;
+     background-repeat: no-repeat;
+     background-size: 100%;
+     margin: 100px;
+     padding: 50px;
+ }
+
+ nav {
+     display: flex;
+     justify-content: center;
+     background-color: rgb(255, 255, 255);
+     padding: 10px;
+
+ }
+
+ nav a {
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+ }
+
+ nav a:hover {
+     color: #114263;
+     text-decoration: underline;
+ }
+
+ section {
+     margin: 20px 0;
+
+ }
+
+ footer {
+     background-color: black;
+     margin: 0px;
+     padding: 20px;
+     bottom: 0px;
+     position: fixed;
+     width: 100%;
+
+
+
+ }
